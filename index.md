@@ -14,4 +14,4 @@ James Bond, Agent 007, ist ein von Ian Fleming erfundener Geheimagent, der für 
 
 James Bond sagte:
 > Einen Wodka Martini,
-> gerühert, nicht geschüttelt.
+> gerühert, nicht geschüttelt!
