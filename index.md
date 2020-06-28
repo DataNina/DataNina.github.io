@@ -9,3 +9,9 @@ James Bond, Agent 007, ist ein von Ian Fleming erfundener Geheimagent, der für 
 * ist seinen Gegnern immer überlegen
 	* hat den Tod des Gegners als Auftrag
 * hat Gefallen hat schönen Frauen
+
+
+
+James Bond sagte:
+> Einen Wodka Martini,
+> geschüttelt, nicht gerühert.
